@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

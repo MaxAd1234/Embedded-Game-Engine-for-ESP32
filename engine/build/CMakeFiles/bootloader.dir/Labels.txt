@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/CMakeFiles/bootloader
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/CMakeFiles/bootloader.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/CMakeFiles/bootloader-complete.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/maximilianadolenko/Code/bachelor_thesis/Embedded-Game-Engine-for-ESP32/engine/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
